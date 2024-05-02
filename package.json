@@ -1,6 +1,6 @@
 {
-  "name": "testecomponent",
-  "private": true,
+  "name": "teste-component",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
